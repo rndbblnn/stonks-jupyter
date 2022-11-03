@@ -27,6 +27,7 @@ AND (\n\
 ```
 
 ### SMAs all up and fakeout
+```
 [d]H.0 * 0.99 > [d]MAXH20.1 \n\
 AND [d]H.1 < [d]MAXH20.2 \n\
 AND [d]H.2 < [d]MAXH20.3 \n\
@@ -46,8 +47,10 @@ AND (\n\
     OR [d]ATR20.20 > 5.0 \n\
     OR [d]ATR20.40 > 5.0 \n\
 )\
+```
 
 ### 1st red day
+```
 [d]C.0 < [d]C.1 \n\
 AND [d]C.0 < [d]O.0 \n\
 AND [d]C.1 > [d]C.2 \n\
@@ -67,8 +70,10 @@ AND (\n\
     OR [d]ATR20.20 > 5.0 \n\
     OR [d]ATR20.40 > 5.0 \n\
 )\
+```
 
 ### downtrending & touching EMA 50
+```
 [d]H.0 / [d]AVGC50.0 >= 0.98 \n\
 AND [d]H.0 / [d]AVGC50.0 <= 1.02 \n\
 AND [d]C.0 / [d]C.50 <= 0.6 \n\
@@ -89,8 +94,10 @@ AND (\n\
     OR [d]ATR20.20 > 5.0 \n\
     OR [d]ATR20.40 > 5.0 \n\
 )\
+```
 
 ### First close under EMA 200
+```
 [d]C.1 / [d]C.250 >= 2.0 \n\
 AND [d]C.0 < [d]AVGC200.0 \n\
 AND (\n\
@@ -121,6 +128,7 @@ AND (\n\
     OR [d]ATR20.20 > 5.0 \n\
     OR [d]ATR20.40 > 5.0 \n\
 )\
+```
 
 ### up big, first time below 50 with downtrending 10&20
 ![image](https://user-images.githubusercontent.com/15132795/199724898-28124aa8-b8a6-451f-a63f-72c0f64be348.png)
