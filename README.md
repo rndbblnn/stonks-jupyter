@@ -129,6 +129,7 @@ AND (\n\
     OR [d]ATR20.40 > 5.0 \n\
 )\
 ```
+![image](https://user-images.githubusercontent.com/15132795/199727001-00182fc6-aa1e-4d85-b890-fec7d82555ad.png)
 
 ### up big, first time below 50 with downtrending 10&20
 ![image](https://user-images.githubusercontent.com/15132795/199724898-28124aa8-b8a6-451f-a63f-72c0f64be348.png)
