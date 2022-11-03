@@ -5,6 +5,7 @@ Jupyter notebooks for chart patterns backtesting
 ## stock patterns
 
 ### SMAs all up & gap up
+```
 [d]O.0 / [d]C.1 > 1.2 \n\
 AND [d]C.1 > [d]AVGC20.0 \n\
 AND [d]AVGC10.0 > [d]AVGC20.0 \n\
@@ -23,6 +24,7 @@ AND (\n\
     OR [d]ATR20.20 > 5.0 \n\
     OR [d]ATR20.40 > 5.0 \n\
 )\
+```
 
 ### SMAs all up and fakeout
 [d]H.0 * 0.99 > [d]MAXH20.1 \n\
