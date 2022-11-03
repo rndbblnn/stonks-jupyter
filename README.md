@@ -135,3 +135,7 @@ AND (\n\
 
 ### up big, first time below 50 with downtrending 10&20
 ![image](https://user-images.githubusercontent.com/15132795/199724898-28124aa8-b8a6-451f-a63f-72c0f64be348.png)
+
+### MA cluster (e10-e20-s50)
+![image](https://user-images.githubusercontent.com/15132795/199741907-20be4268-460f-4e4e-9c7c-3c24e44b1837.png)
+
