@@ -130,7 +130,6 @@ AND (\n\
 )\
 ```
 ![image](https://user-images.githubusercontent.com/15132795/199727001-00182fc6-aa1e-4d85-b890-fec7d82555ad.png)
-![image](https://user-images.githubusercontent.com/15132795/199727859-edea669e-3c18-48f5-a728-1ccea72677d5.png)
 ![image](https://user-images.githubusercontent.com/15132795/199727993-d2070d61-d225-4e47-a132-a273542d10bf.png)
 
 ### up big, first time below 50 with downtrending 10&20
