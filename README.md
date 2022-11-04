@@ -139,3 +139,7 @@ AND (\n\
 ### MA cluster (e10-e20-s50)
 ![image](https://user-images.githubusercontent.com/15132795/199741907-20be4268-460f-4e4e-9c7c-3c24e44b1837.png)
 
+### SMAs all up (except 10) dip buy
+![image](https://user-images.githubusercontent.com/15132795/200084309-d9940090-70b3-4b6a-891a-49115682fc91.png)
+
+
