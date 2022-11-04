@@ -1,7 +1,7 @@
 # stonks-jupyter (work-in-progress)
 Jupyter notebooks for chart patterns backtesting
 
-pattern queries below are meant to be used in the ```charting.ipynb```https://github.com/rndbblnn/stonks-jupyter/blob/main/charting.ipynb notebook.
+pattern queries below are meant to be used in this notebook: https://github.com/rndbblnn/stonks-jupyter/blob/main/charting.ipynb
 
 
 ## stock patterns
