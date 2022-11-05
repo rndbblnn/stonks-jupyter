@@ -6,6 +6,41 @@ pattern queries below are meant to be used in this notebook: https://github.com/
 
 ## stock patterns
 
+### higher low & over previous day's high (green trades only, for study)
+
+https://github.com/rndbblnn/stonks-jupyter/blob/main/higher-low-and-over-previous-day-high.ipynb
+
+```
+[d]C.0 / [d]C.5 >= 1.2 \n\
+AND [d]H.5 > [d]H.6 \n\
+AND [d]L.6 > [d]L.7 \n\
+AND [d]H.6 <= [d]H.7 \n\
+AND [d]C.0 > [d]AVGC50.0 \n\
+AND (\n\
+  [d]C.0 > [d]C.1 \n\
+  AND [d]C.1 > [d]C.2 \n\
+  AND [d]C.2 > [d]C.3 \n\
+  AND [d]C.3 > [d]C.4 \n\
+  AND [d]C.4 > [d]C.5 \n\
+)\n\
+AND (\n\
+    [d]DV.0 > 1.0 \n\
+    OR [d]MINDV3.1 > 2.0\n\
+    OR [d]AVGDV20.0 > 3.0\n\
+)\n\
+AND (\n\
+    [d]ATR1.0 > 8.0 \n\
+    OR [d]ATR20.0 > 5.0 \n\
+    OR [d]ATR20.20 > 5.0 \n\
+    OR [d]ATR20.40 > 5.0 \n\
+)\
+```
+![image](https://user-images.githubusercontent.com/15132795/200146296-f3ea6b5f-dd51-4faf-9458-a3ab0e78d19e.png)
+![image](https://user-images.githubusercontent.com/15132795/200146587-c82b235d-273c-4bcf-ab50-425fcf44e9a4.png)
+
+
+
+
 ### SMAs all up & gap up
 ```
 [d]O.0 / [d]C.1 > 1.2 \n\
