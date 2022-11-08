@@ -180,4 +180,7 @@ AND (\n\
 
 ### SMAs all down under previous low
 ![image](https://user-images.githubusercontent.com/15132795/200460381-9cfbd80d-896b-47b7-8f04-5a206e1ec1a3.png)
+![image](https://user-images.githubusercontent.com/15132795/200460478-99fb4be7-39a2-4fdf-a84b-795dc5e80678.png)
+![image](https://user-images.githubusercontent.com/15132795/200460564-c94a743f-304f-4708-82d1-087c18ce25d0.png)
+
 
