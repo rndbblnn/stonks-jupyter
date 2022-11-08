@@ -180,7 +180,7 @@ AND (\n\
 ### SMAs all up (except 10) dip buy
 ![image](https://user-images.githubusercontent.com/15132795/200084309-d9940090-70b3-4b6a-891a-49115682fc91.png)
 
-### SMAs all down under previous low
+### SMAs all down under previous low (10 & 20 pointing down)
 ![image](https://user-images.githubusercontent.com/15132795/200460381-9cfbd80d-896b-47b7-8f04-5a206e1ec1a3.png)
 -
 ![image](https://user-images.githubusercontent.com/15132795/200460478-99fb4be7-39a2-4fdf-a84b-795dc5e80678.png)
