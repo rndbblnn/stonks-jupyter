@@ -36,6 +36,7 @@ AND (\n\
 )\
 ```
 ![image](https://user-images.githubusercontent.com/15132795/200146296-f3ea6b5f-dd51-4faf-9458-a3ab0e78d19e.png)
+-
 ![image](https://user-images.githubusercontent.com/15132795/200146587-c82b235d-273c-4bcf-ab50-425fcf44e9a4.png)
 
 
@@ -167,6 +168,7 @@ AND (\n\
 )\
 ```
 ![image](https://user-images.githubusercontent.com/15132795/199727001-00182fc6-aa1e-4d85-b890-fec7d82555ad.png)
+-
 ![image](https://user-images.githubusercontent.com/15132795/199727993-d2070d61-d225-4e47-a132-a273542d10bf.png)
 
 ### up big, first time below 50 with downtrending 10&20
@@ -180,7 +182,9 @@ AND (\n\
 
 ### SMAs all down under previous low
 ![image](https://user-images.githubusercontent.com/15132795/200460381-9cfbd80d-896b-47b7-8f04-5a206e1ec1a3.png)
+-
 ![image](https://user-images.githubusercontent.com/15132795/200460478-99fb4be7-39a2-4fdf-a84b-795dc5e80678.png)
+-
 ![image](https://user-images.githubusercontent.com/15132795/200460564-c94a743f-304f-4708-82d1-087c18ce25d0.png)
 
 
